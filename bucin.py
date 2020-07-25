@@ -44,7 +44,7 @@ ____  ___    ____  _______    _   __
 /_/ |_/_/  |_/_____/___/_/  |_/_/ |_/
  
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mDJ
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRADIAN PRATAMA👑
 \033[1;96mYouTube \033[1;93m: \033[1;92mRADIAN SAMOSIR PRATAMA
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Radiansamosir/darkbucinners
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/S4M0S1R
